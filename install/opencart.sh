@@ -10,8 +10,8 @@
 ###################################################################
 
 
-
-# TODO
+ 
+# TO DO
 # [x] File and folder permissions for install https://gist.github.com/aamnah/9cab2942f42d5fe7035d
 # [x] File and folder permissions post-install (secure) https://gist.github.com/aamnah/eff1c13f8b8d893c7c61
 # [x] Delete install folder when done
